@@ -28,11 +28,11 @@
 
 
 \begin{document}
-\ref{くれいじー}
+\ref{ほげー}
 
 \subsubsection{結果}\setcounter{lstlisting}{0} %setcounterを実行しなければコマンド番号の下一桁がリセットされない
 
-\begin{lstlisting}[caption=ほげほげ,label=くれいじー]
+\begin{lstlisting}[caption=ほげほげ,label=ぴよぴよ]
 <<ここに結果を貼る>>
 \end{lstlisting}
 
